@@ -4,5 +4,5 @@ In this project we’ll use the size of points to indicate the area and populati
 
 For a better understanding, I would recommend going through the below links before starting the tutorial:    
   
-- [Dataset Link]()
-https://github.com/amankharwal/Californai-Cities/blob/master/california_cities.csv
+- [Dataset Link](https://github.com/Mayankml24/California-Cities-Master/blob/main/california_cities.csv)
+
